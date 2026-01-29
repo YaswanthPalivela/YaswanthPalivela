@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/yaswanthnani" target="blank"><img src="https://img.shields.io/twitter/follow/yaswanthnani?logo=twitter&style=for-the-badge" alt="yaswanthnani" /></a> </p>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m a  **Full stack Developer**
 
-- 💬 Ask me about **Html,Css,Python,JavaScript,Sql,Node.js,Express.js**
+- 💬 Ask me about **Html,Css,Python,JavaScript,Sql,react.js,Mongodb,Node.js,Express.js**
 
 - 📫 How to reach me **yaswanthnani998@gmail.com**
 
